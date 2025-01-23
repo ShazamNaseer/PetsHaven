@@ -1,52 +1,16 @@
-# PetsHaven
-Pets Haven Application
+# petheaven
 
-Overview
+A new Flutter project.
 
-Pets Haven is a Flutter application designed for pet enthusiasts to explore and save their favorite dog and cat images. The app allows users to navigate between different pages, view categorized pet images, mark their favorite images, and access additional settings.
+## Getting Started
 
-Features
+This project is a starting point for a Flutter application.
 
-Home Page:
+A few resources to get you started if this is your first Flutter project:
 
-Displays a list of dog and cat images.
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-Images are horizontally scrollable and visually appealing with rounded corners.
-
-Users can mark images as favorites by tapping the heart icon.
-
-Favorites Page:
-
-Displays a collection of all the user-selected favorite images.
-
-Easy access to previously marked favorites.
-
-Settings Page:
-
-A placeholder for user settings and customization (accessible via the bottom navigation bar).
-
-Bottom Navigation Bar:
-
-Enables seamless navigation between:
-
-Home
-
-Favorites
-
-Chat (placeholder content)
-
-Settings
-
-Project Structure
-
-Main App Class:
-
-Initializes Firebase.
-
-Sets up the main structure using GetMaterialApp.
-
-HomePage Widget:
-
-Manages the bottom navigation bar and page transitions.
-
-Contains methods to handle favorites and image display.
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
